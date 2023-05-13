@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adilkt16
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning UI Engineering
+- 🌱 I’m currently learning Mobile_Application
+-    I have completed frontend , backend ,devops and web application.
 - 💞️ I’m looking for remote work in UI Engineering .
 - 📫 How to reach me 
         Email : adilkt16@gmail.com
