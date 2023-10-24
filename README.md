@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adilkt16
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Mobile_Application
+-         CEO of Fivost.com
+- 👀 I’m interested in Tech and Business
+- 🌱 I’m currently learning Mobile Application
 -    I have completed frontend , backend ,devops and web application.
-- 💞️ I’m looking for remote work in UI Engineering .
 - 📫 How to reach me 
         Email : adilkt16@gmail.com
         Insta : https://www.instagram.com/a_k_t_16/ 
