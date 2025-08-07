@@ -5,7 +5,6 @@
 -    I have completed frontend , backend ,devops and web application.
 - 📫 How to reach me 
         Email : adilkt16@gmail.com
-        Insta : https://www.instagram.com/a_k_t_16/ 
         Linked in : https://www.linkedin.com/in/adilkt16
 
 <!---
