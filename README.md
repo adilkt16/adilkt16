@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adilkt16
--         CEO of Fivost.com
-- 👀 I’m interested in Tech and Business
-- 🌱 I’m currently learning Mobile Application
--    I have completed frontend , backend ,devops and web application.
+-         Generalist
+- 👀 I’m interested in Tech, Business & Psycology
+- 🌱 I’m currently learning Multiple stuffs
+-    I have completed frontend , backend ,devops and web application. and other areas too.
 - 📫 How to reach me 
         Email : adilkt16@gmail.com
         Linked in : https://www.linkedin.com/in/adilkt16
